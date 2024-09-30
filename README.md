@@ -1,6 +1,6 @@
-This me Ramila Khalil "Frontend Developer"
+This is me Ramila Khalil "A Frontend Developer"
 <br>
-<a href="https://www.linkedin.com/in/ramilamirker/">
+Currently Learning Generative AI.
 <br>
 This is my portfolio website.
 
